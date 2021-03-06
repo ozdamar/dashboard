@@ -22,3 +22,5 @@ https://github.com/datasets/awesome-data
 
 https://github.com/viisar/awesome-datasets
 
+## TÜRKÇE GRAFİK İSİMLERİ SÖZLÜĞÜ
+
